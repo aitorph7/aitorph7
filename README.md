@@ -7,7 +7,7 @@
 
 **I am Aitor,** passionate about physical activity and well-being.
 
-My passion for challenges has extended to the world of programming, which is why during the second half of 2023 and the first half of 2024 I studied **web development with a special focus on Java**☕️.
+My passion for challenges has extended to the world of programming, which is why during the second half of 2023 and the first half of 2024 I studied **Web Development with a special focus on Java**☕️.
 
 Right now I'm immersed in a training process in **Artificial Intelligence**🤖.
 
